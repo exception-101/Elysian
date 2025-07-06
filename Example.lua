@@ -22,11 +22,11 @@ local Window = Library:CreateWindow({
 	-- Position and Size are also valid options here
 	-- but you do not need to define them unless you are changing them :)
 
-	Title = "mspaint",
-	Footer = "version: example",
-	Icon = 95816097006870,
+	Title = "Elysian",
+	Footer = "user build 1.0",
+	Icon = ,
 	NotifySide = "Right",
-	ShowCustomCursor = true,
+	ShowCustomCursor = false,
 })
 
 -- CALLBACK NOTE:
